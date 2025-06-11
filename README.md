@@ -11,7 +11,7 @@ Hi! I'm Muhammad Davud, a student currently studying in Universiti Teknologi Pet
     </td>
     <td align="center" style="padding: 0 15px;">
       <a href="https://www.instagram.com/davud_razip/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" title="Instagram" alt="instagram" width="55" height="55"/>
       </a>
     </td>
     <td align="center" style="padding: 0 15px;">
