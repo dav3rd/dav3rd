@@ -21,3 +21,50 @@ Hi! I'm Muhammad Davud, a student currently studying in Universiti Teknologi Pet
     </td>
   </tr>
 </table>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+dav3rd+%F0%9F%91%8B;Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dav3rd&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav3rd&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/dav3rd/dav3rd/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### ⚡ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YourUsername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
